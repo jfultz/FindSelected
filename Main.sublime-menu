@@ -1,7 +1,7 @@
 [
     {
         "caption": "Find",
-        "mnemonic": "I",
+        "mnemonic": "i",
         "id": "find",
         "children":
         [
